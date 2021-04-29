@@ -1,0 +1,11 @@
+C:\Users\SEGA One\Desktop\C_Sharp_Labs-master\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\SEGA One\Desktop\C_Sharp_Labs-master\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\SEGA One\Desktop\C_Sharp_Labs-master\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\SEGA One\Desktop\C_Sharp_Labs-master\Lab 1\obj\Debug\Lab№1.csprojAssemblyReference.cache
+C:\Users\SEGA One\Desktop\C_Sharp_Labs-master\Lab 1\obj\Debug\Lab_1.NewUserAddForm.resources
+C:\Users\SEGA One\Desktop\C_Sharp_Labs-master\Lab 1\obj\Debug\Lab_1.FormUsers.resources
+C:\Users\SEGA One\Desktop\C_Sharp_Labs-master\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\SEGA One\Desktop\C_Sharp_Labs-master\Lab 1\obj\Debug\Lab№1.csproj.GenerateResource.cache
+C:\Users\SEGA One\Desktop\C_Sharp_Labs-master\Lab 1\obj\Debug\Lab№1.csproj.CoreCompileInputs.cache
+C:\Users\SEGA One\Desktop\C_Sharp_Labs-master\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\SEGA One\Desktop\C_Sharp_Labs-master\Lab 1\obj\Debug\Lab 1.pdb
